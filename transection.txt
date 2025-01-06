@@ -1,0 +1,14 @@
+Type : withdraw ; deposit ammount 0 ;new balance => 0 
+Type : withdraw ; deposit ammount 0 ;new balance => 0 
+Type : deposit ; deposit ammount 2000 ;new balance => 2000 
+account holder name:ZaidFaridType : withdraw ; deposit ammount 0 ;new balance => 0 
+Type : deposit ; deposit ammount 2000 ;new balance => 2000 
+account holder name:ZaidFaridType : withdraw ; deposit ammount 0 ;new balance => 0 
+Type : deposit ; deposit ammount 2000 ;new balance => 2000 
+account holder name:ZaidFaridType : withdraw ; deposit ammount 0 ;new balance => 0 
+Type : deposit ; deposit ammount 2000 ;new balance => 2000 
+account holder name:ZaidFaridType : withdraw ; deposit ammount 1525 ;new balance => 475 
+Type : withdraw ; deposit ammount 0 ;new balance => 0 
+Type : deposit ; deposit ammount 2000 ;new balance => 2000 
+account holder name:ZaidFaridType : withdraw ; deposit ammount 1525 ;new balance => 475 
+account holder name:ZaidFarid
