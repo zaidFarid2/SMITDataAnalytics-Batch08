@@ -1,0 +1,19 @@
+Serial,Emp_ID,Designation,Department,Age,Salary
+1,1101,Manager,Accounts,50,200000
+2,1107,Officer,IT,30,80000
+3,1203,Officer,HR,28,NaN
+4,1005,Manager,HR,45,120000
+5,2123,Office Boy,Accounts,27,45000
+6,2451,Accountant,NaN,34,100000
+7,1111,Accountant,Accounts,NaN,110000
+8,1001,Officer,IT,25,75000
+9,1234,Manager,IT,23,NaN
+10,2156,Engineer,Production,45,89000
+11,6543,Officer,Production,29,100000
+12,3214,Accountant,Account,49,123000
+13,2156,Engineer,Production,45,89000
+14,1098,Officer,IT,25,100000
+15,2912,Officer,IT,31,90000
+16,1222,Officer,NaN,25,NaN
+17,2156,Engineer,Production,45,89000
+18,2123,Office Boy,Accounts,27,45000
